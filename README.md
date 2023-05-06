@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on Native Mobile Development (Android, Ios)<br>🌱 I’m currently learning Ktor Framework & Web Development<br>⚙️ I use daily: .kt, .java, .swift<br>⚡ Favorite idiom: 起死回生 (Kishi kaisei) - “Wake from death and return to life”
+🔭 I’m currently working on Native Mobile Development (Android, Ios)<br>🌱 I’m currently learning Ktor Framework & Web Development<br>⚙️ I use daily: .kt, .java, .swift, .cpp<br>⚡ Favorite idiom: 起死回生 (Kishi kaisei) - “Wake from death and return to life”
 
 
 # 💻 Tech Stack:
